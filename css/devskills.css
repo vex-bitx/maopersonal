@@ -1,13 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Merienda");
-body h1 {
-  text-align: center;
-  color: #fff;
-  margin: 40px auto 20px;
-}
+
 #skillCanvasContainer h1 {
-    text-align: center;
     color: #fff;
-    margin: 40px auto 20px;
 }
 #skillCanvasContainer {
   display: flex;
